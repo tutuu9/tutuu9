@@ -39,4 +39,4 @@ After that, I want to continue learning **C++** 💻 and **mobile development** 
 
 ## 📬 Contact
 - GitHub: [tutuu9](https://github.com/tutuu9)
-- Telegram: [@TUTUU9](https://TUTUU9.t.me
+- Telegram: [@TUTUU9](https://TUTUU9.t.me)
