@@ -1,57 +1,20 @@
-# Hi, I'm Taras 👋
+# hey, i'm taras.
 
-Junior Node.js Backend Developer based in Poland 🇵🇱
+backend engineer-ish.  
+team lead when somebody has to be.
 
-I build backend applications with Node.js, Express and MongoDB.  
-Right now I’m focused on improving my backend skills, building real projects, and preparing for a Junior / Internship role.
+building:
 
-## Tech Stack
-- Node.js
-- Express.js
-- MongoDB / Mongoose
-- JWT
-- Socket.IO
-- Git / GitHub
-- REST API
-- JavaScript
+**[redacted]**  
+multi-app platform · payments · realtime · analytics
 
-## Current Focus
-- Backend architecture
-- Authentication & authorization
-- Real-time apps
-- Clean API structure
-- Improving project quality for portfolio and job applications
+**CarHunter**  
+cars · data · monitoring · automation
 
-## Featured Projects
+...and a bunch of other public & private projects.
 
-### 🤖 AI Support Chat API
-Backend API for a support chat system with AI replies, JWT auth, user/admin roles, and chat history.  
-[Repository](https://github.com/tutuu9/ai-support-chat-api)
+mostly using:
 
-### 🚀 Job Board API
-Backend for a job board platform with authentication, company/user roles, job posting, applications, filtering, and pagination.  
-[Repository](https://github.com/tutuu9/JobBoardAPI)
+`typescript` `nestjs` `postgresql` `prisma` `docker`
 
-### 🏪 Shop API
-REST API for an online shop with products, cart, orders, admin routes, filtering, and pagination.  
-[Repository](https://github.com/tutuu9/ShopAPI)
-
-### 📱 School App Showcase
-Showcase of my fullstack school communication project with chat, news, admin panel, and role-based access.  
-[Repository](https://github.com/tutuu9/school-app-showcase)
-
-## Currently Learning
-- Advanced Node.js concepts
-- Better backend architecture
-- Fullstack development with React / Next.js
-- Clean code and production-ready practices
-
-## Looking For
-I’m looking for:
-- Junior Node.js Backend Developer role
-- Internship
-- Backend practice / freelance opportunities
-
-## Contact
-- Email: tarasuzun@gmail.com
-- GitHub: [tutuu9](https://github.com/tutuu9)
+> if it works locally, we're halfway there.
