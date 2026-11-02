@@ -1,19 +1,25 @@
 # hey, i'm taras.
 
-backend engineer-ish.  
+backend engineer-ish.
 team lead when somebody has to be.  
-usually building something.
+building products, dev tools & things that save me time.
 
-building:
+selected projects:
+
+**[AgentGate](https://github.com/tutuu9/AgentGate)**  
+github issues → plans → code → reviewed pull requests · powered by codex
+
+**[CommitMemo](https://github.com/tutuu9/CommitMemo)**  
+local git history → daily & weekly work journals
+
+**[ZdajEgzaminINF](https://github.com/tutuu9/ZdajEgzaminINF)**  
+a polish coding workshop for INF.03 exam prep
 
 **QResto**  
-multi-app platform · payments · realtime · analytics · infra
-
-**CarHunter**  
-cars · data · monitoring · automation
+multi-app restaurant platform · payments · realtime · analytics
 
 **[redacted]**  
-building something from scratch.
+something cooking.
 
 ...and a bunch of other public & private projects.
 
