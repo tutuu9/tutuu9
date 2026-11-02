@@ -15,7 +15,7 @@ local git history → daily & weekly work journals
 **[ZdajEgzaminINF](https://github.com/tutuu9/ZdajEgzaminINF)**  
 a polish coding workshop for INF.03 exam prep
 
-**QResto**  
+**[QResto](https://github.com/QRestoUA)**  
 multi-app restaurant platform · payments · realtime · analytics
 
 **[redacted]**  
